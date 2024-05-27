@@ -1,0 +1,9 @@
+Thought on testing and checking out what is the correct method of reading and searching for text I need.
+Note that the end point is to read over structured meta data that will have specific fields
+    These fields should be able to map to a struct in the future
+    and I will need to read into specific fields hopefully to save time
+
+Right now I'm just playing around and getting used to the differnt tools I could use.plan for this repo.
+
+Create several packages using differnt of opening files and text matching.
+using the bench marktool check how fast this is done for single and mulitipu files without using go routines 
